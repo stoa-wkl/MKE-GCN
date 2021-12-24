@@ -1,4 +1,4 @@
-# CTR-GCN
+# MKE-GCN
 This repo is the official implementation for MKE-GCN.
 
 
